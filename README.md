@@ -32,8 +32,8 @@ IMC = peso / (altura * altura)
 Média válida:
 Remove a menor e a maior nota e tira a média das restantes.
 
-Como executar
-Instale o Node.js (https://nodejs.org)
-Crie um arquivo atleta.js
-Cole o código acima
+Como executar:
+Instale o Node.js (https://nodejs.org).
+Crie um arquivo atleta.js.
+Cole o código acima.
 Execute no terminal:
